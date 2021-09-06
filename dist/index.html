@@ -1,0 +1,1 @@
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Document</title><script defer="defer" src="myBundle.3a4ac4278d52c7768ea9.js"></script><link href="main.3a4ac4278d52c7768ea9.css" rel="stylesheet"></head><body><div id="app"></div></body></html>
